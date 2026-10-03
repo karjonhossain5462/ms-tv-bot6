@@ -46,7 +46,7 @@ logging.basicConfig(
 # =========================
 # BOT SETTINGS
 # =========================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8454086969:AAHrAgFvJdzLIOFX2CGHwOzEdjJIDZWaXdk")
+BOT_TOKEN = os.environ.get("BOT_TOKENID)
 ADMIN_ID = 6029246309  # Telegram User ID
 
 # States for Media Upload
